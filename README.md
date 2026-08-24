@@ -1,4 +1,4 @@
-# BudayaIN - Aplikasi Edukasi Pengenalan Budaya Indonesia 🇮🇩
+# BudayaIN - Aplikasi Edukasi Pengenalan Budaya Indonesia
 
 **BudayaIN** adalah aplikasi berbasis mobile yang dirancang sebagai media edukasi digital interaktif untuk memperkenalkan dan melestarikan kekayaan budaya Indonesia kepada generasi muda[cite: 1]. Di tengah gempuran globalisasi dan tingginya paparan budaya asing, aplikasi ini hadir untuk mempermudah masyarakat dalam mengenal keragaman budaya lokal secara modern dan menyenangkan[cite: 1].
 
